@@ -5,7 +5,7 @@ const list = document.querySelectorAll (".list-item")
 const firstListItem = document.querySelector (".list-item")
 console.log(firstListItem)
 button.addEventListener ("click",
-    function() {header.innerHTML="Text ChangedS"}
+    function() {header.innerHTML="Text Changed"}
 )
 for (let i = 0; i < text.length; i++) {
     text[i].style.color="blue"
